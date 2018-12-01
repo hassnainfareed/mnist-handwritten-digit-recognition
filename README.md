@@ -1,4 +1,4 @@
-# Keras Standard Fully Connected Neural Network with Python
+# Keras Fully Connected Neural Network using Python for Digit Recognition
 <p align="center">
   <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg">
 </p>
