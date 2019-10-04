@@ -3,11 +3,14 @@
   <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg">
 </p>
 
+About
 Welcome to another tutorial on Keras. This tutorial will be exploring how to build a Fully Connected Neural Network model for Object Classification on Mnist Dataset. Let's get straight into it!
 
 The MNIST database of handwritten digits, has a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image.
 
 It is a good database for people who want to try learning techniques and pattern recognition methods on real-world data while spending minimal efforts on preprocessing and formatting.
+
+
 
 
 ```
